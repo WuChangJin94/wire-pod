@@ -10,7 +10,7 @@ The installation guide exists on the wiki: [Installation guide](https://github.c
 
 ## Wiki
 
-Check out the [wiki](https://github.com/kercre123/wire-pod/wiki) for more information on what wire-pod is, a guide on how to install wire-pod, troubleshooting, how to develop for it, and for some generally helpful tips.
+Check out the [wiki](https://github.com/WuChangJin94/wire-pod/wiki/Installation) for more information on what wire-pod is, a guide on how to install wire-pod, troubleshooting, how to develop for it, and for some generally helpful tips.
 
 ## Donate
 
@@ -26,3 +26,4 @@ If you want to :P
 - [fforchino](https://github.com/fforchino) for adding many features such as localization and multilanguage, and for helping out
 - [xanathon](https://github.com/xanathon) for the publicity and web interface help
 - Anyone who has opened an issue and/or created a pull request for wire-pod
+
